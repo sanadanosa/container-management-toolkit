@@ -10,6 +10,6 @@
 
     - Red: Container is dead/exited.
 
-    - White: Container is fine (easier on the eyes than bright green).
+    - White: Container is up.
 
     - Yellow: It's doing something (starting/restarting).
